@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/son880335-max/Sang-thu-2
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[lfs]
+	repositoryformatversion = 0
